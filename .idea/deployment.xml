@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="172.16.100.57" createEmptyFolders="true">
+    <serverData>
+      <paths name="172.16.100.57">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/sqian" local="$USER_HOME$/project/easystack/ark" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

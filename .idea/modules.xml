@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/first_project.iml" filepath="$PROJECT_DIR$/.idea/first_project.iml" />
+      <module fileurl="file://D:\gitclone\easystack\python_road\.idea\first_project.iml" filepath="D:\gitclone\easystack\python_road\.idea\first_project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python_road.iml" filepath="$PROJECT_DIR$/.idea/python_road.iml" />
     </modules>
   </component>

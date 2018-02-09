@@ -11,5 +11,6 @@ def func(my_list):
             my_list2.append(i)
     return my_list2
 
+
 l = func([1, 1, 1, 1, 2, 2, 2, 2])
 print l
